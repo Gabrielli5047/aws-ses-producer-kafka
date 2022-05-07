@@ -1,0 +1,5 @@
+br/com/kafka_producer/App.class
+br/com/kafka_producer/services/KafkaService.class
+br/com/kafka_producer/services/SESService.class
+br/com/kafka_producer/services/SESService$1$1.class
+br/com/kafka_producer/services/SESService$1.class
